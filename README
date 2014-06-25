@@ -1,1 +1,1 @@
-This file was created by IntelliJ IDEA 12.1.1 for binding GitHub repository
+This project demonstrates how to use SolrJ to create parent and child docs, as well as how to use the Block Join query parser to retrieve the parent based on queries matching the child document.
